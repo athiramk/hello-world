@@ -1,2 +1,4 @@
 # hello-world
-Just trying out the tutorial to create a repository.
+Hi Humans,
+
+An alien here. I wish to have some experiences on Earth.
